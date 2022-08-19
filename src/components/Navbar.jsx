@@ -20,7 +20,7 @@ const Navbar = () => {
       <ul className="hidden md:flex">
         <li>
           <Link to="home" smooth={true} duration={500}>
-            Home
+            Inicio
           </Link>
         </li>
         <li>
@@ -60,27 +60,27 @@ const Navbar = () => {
       >
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="home" smooth={true} duration={500}>
-            Home
+            Inicio
           </Link>
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-            About
+            Sobre mi
           </Link>
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
-            Skills
+            Habilidades
           </Link>
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="work" smooth={true} duration={500}>
-            Work
+            Proyectos
           </Link>
         </li>
         <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
-            Contact
+            Contacto
           </Link>
         </li>
       </ul>

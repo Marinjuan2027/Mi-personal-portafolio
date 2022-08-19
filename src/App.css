@@ -28,3 +28,8 @@
     hsla(242, 74%, 61%, 0.8)
   ) !important;
 }
+
+.img {
+  width: 50px;
+  height: 50px;
+}
