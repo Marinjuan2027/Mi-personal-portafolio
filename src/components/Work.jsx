@@ -1,4 +1,6 @@
 import React from "react";
+import { FaGithub } from "react-icons/fa";
+import { SiNetlify } from "react-icons/si";
 import Json from "../assets/Json.png";
 import rickandmorty from "../assets/rickandmorty.png";
 import Pokedex from "../assets/pokedex.png";
@@ -30,12 +32,12 @@ const Work = () => {
               <div className="pt-8 text-center">
                 <a href="https://entregabletrescamilomarin.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    <SiNetlify />
                   </button>
                 </a>
                 <a href="https://github.com/Marinjuan2027/entregable3">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    <FaGithub />
                   </button>
                 </a>
               </div>
@@ -53,12 +55,12 @@ const Work = () => {
               <div className="pt-8 text-center">
                 <a href="https://entregablecincocamilomarin.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    <SiNetlify />
                   </button>
                 </a>
                 <a href="https://github.com/Marinjuan2027/entregable5">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    <FaGithub />
                   </button>
                 </a>
               </div>
@@ -76,12 +78,12 @@ const Work = () => {
               <div className="pt-8 text-center">
                 <a href="https://entregableunocamilomarin.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    <SiNetlify />
                   </button>
                 </a>
                 <a href="https://github.com/Marinjuan2027/1entregable">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    <FaGithub />
                   </button>
                 </a>
               </div>
@@ -99,12 +101,12 @@ const Work = () => {
               <div className="pt-8 text-center">
                 <a href="https://entregableseiscamilomarin.netlify.app/#/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    <SiNetlify />
                   </button>
                 </a>
                 <a href="https://github.com/Marinjuan2027/Ecommerce">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    <FaGithub />
                   </button>
                 </a>
               </div>
@@ -122,12 +124,12 @@ const Work = () => {
               <div className="pt-8 text-center">
                 <a href="https://entregabledoscamilomarin.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    <SiNetlify />
                   </button>
                 </a>
                 <a href="https://github.com/Marinjuan2027/entregable2">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    <FaGithub />
                   </button>
                 </a>
               </div>
