@@ -1,16 +1,17 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import Imagen from "../assets/img1.jpeg";
+import Image from "../assets/imagen.jpeg";
 
 const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        <img src={Imagen} alt="" className="img" />
         <p className="text-pink-600 font-bold">Hola, mi Nombre es</p>
-        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
+        <h1 className="text-4xl sm:text-7xl grid grid-cols-2 font-bold text-[#ccd6f6]">
           Juan Camilo Marin
+          <img src={Image} alt="" className="img" />
         </h1>
         <h2 className="text-4xl sm:text-7xl fon-bold text-[#8892b0]">
           Soy Desarrollador Full Stack
