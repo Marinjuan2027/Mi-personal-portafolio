@@ -30,12 +30,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://entregabletrescamilomarin.netlify.app/">
+                <a
+                  href="https://entregabletrescamilomarin.netlify.app/"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <SiNetlify />
                   </button>
                 </a>
-                <a href="https://github.com/Marinjuan2027/entregable3">
+                <a
+                  href="https://github.com/Marinjuan2027/entregable3"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <FaGithub />
                   </button>
@@ -53,12 +59,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://entregablecincocamilomarin.netlify.app/">
+                <a
+                  href="https://entregablecincocamilomarin.netlify.app/"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <SiNetlify />
                   </button>
                 </a>
-                <a href="https://github.com/Marinjuan2027/entregable5">
+                <a
+                  href="https://github.com/Marinjuan2027/entregable5"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <FaGithub />
                   </button>
@@ -76,12 +88,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://entregableunocamilomarin.netlify.app/">
+                <a
+                  href="https://entregableunocamilomarin.netlify.app/"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <SiNetlify />
                   </button>
                 </a>
-                <a href="https://github.com/Marinjuan2027/1entregable">
+                <a
+                  href="https://github.com/Marinjuan2027/1entregable"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <FaGithub />
                   </button>
@@ -99,12 +117,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://entregableseiscamilomarin.netlify.app/#/">
+                <a
+                  href="https://entregableseiscamilomarin.netlify.app/#/"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <SiNetlify />
                   </button>
                 </a>
-                <a href="https://github.com/Marinjuan2027/Ecommerce">
+                <a
+                  href="https://github.com/Marinjuan2027/Ecommerce"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <FaGithub />
                   </button>
@@ -122,12 +146,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://entregabledoscamilomarin.netlify.app/">
+                <a
+                  href="https://entregabledoscamilomarin.netlify.app/"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <SiNetlify />
                   </button>
                 </a>
-                <a href="https://github.com/Marinjuan2027/entregable2">
+                <a
+                  href="https://github.com/Marinjuan2027/entregable2"
+                  target={"_blank"}
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     <FaGithub />
                   </button>
